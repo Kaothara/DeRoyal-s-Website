@@ -1031,6 +1031,7 @@ footer a:hover {
   }
   footer .follow .socials i {
     border: none;
+    padding: 0;
   }
   #header {
     padding: 10px 30px;
