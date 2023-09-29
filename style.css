@@ -422,7 +422,7 @@ footer a {
 footer .about {
   padding-left: 50px;
 }
-footer .follow i {
+footer .follow .socials i {
   color: #1a453e;
   padding: 4px;
   cursor: pointer;
@@ -430,7 +430,7 @@ footer .follow i {
   border-radius: 10px;
   transition: 200ms ease-in-out;
 }
-footer .follow i:hover {
+footer .follow .socials i:hover {
   color: #ddd7c7;
   background-color: #1a453e;
 }
@@ -1029,6 +1029,9 @@ footer a:hover {
   footer .about {
     padding-left: 20px;
   }
+  footer .follow .socials i {
+    border: none;
+  }
   #header {
     padding: 10px 30px;
   }
@@ -1036,6 +1039,7 @@ footer a:hover {
     background-position: 55%;
     padding: 0 20px;
   }
+
   #feature {
     justify-content: space-between;
   }
