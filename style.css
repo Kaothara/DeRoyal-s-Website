@@ -428,7 +428,7 @@ footer a:hover {
 
 /* Shop page */
 #page-header {
-  animation: animate 16s ease-in-out infinite;
+  animation: animate 22s ease-in-out infinite;
   background-size: cover;
 
   display: flex;
@@ -451,7 +451,7 @@ footer a:hover {
     background-image: url("newimages/sh2.jpg");
   }
   75% {
-    background-image: url("newimages/shopheader.jpg");
+    background-image: url("newimages/sh3.png");
   }
 }
 #page-header h2,
