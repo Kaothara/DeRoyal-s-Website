@@ -993,6 +993,9 @@ footer a:hover {
   .section-p1 {
     padding: 20px;
   }
+  footer .about {
+    padding-left: 20px;
+  }
   #header {
     padding: 10px 30px;
   }
