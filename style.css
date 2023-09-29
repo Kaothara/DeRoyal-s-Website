@@ -1136,6 +1136,20 @@ footer a:hover {
     margin-bottom: 30px;
   }
   /* Cart Page */
+  #cart-header {
+    background-position: 55%;
+    padding: 0 20px;
+  }
+  #cart-header h2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+  }
+  #cart-header p {
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff;
+  }
   #cart-add {
     flex-direction: column;
   }
