@@ -247,7 +247,7 @@ p {
   border: 1px solid var(--plain-black-color);
   border-radius: 50px;
   background-color: var(--cart-bg-color);
-  font-weight: 500;
+  /* font-weight: 500; */
   color: var(--basic-brand-color);
   position: absolute;
   bottom: 20px;
